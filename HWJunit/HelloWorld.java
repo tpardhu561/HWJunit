@@ -12,10 +12,12 @@ public class HelloWorld
    {
       if (name == "") 
       {
+    	 System.out.println("Hello!");
          return "Hello!";
       }
       else 
       {
+    	  System.out.println("Hello"+name+"!");
          return "Hello " + name + "!";
       }
    }
