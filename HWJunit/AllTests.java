@@ -15,6 +15,7 @@ public class AllTests
 	//with a simpler IDE like JGrasp or jCreator, the following main() and suite()
 	//might be helpful.
 	
+	
     // Execution begins at main().  In this test class, we will execute
     // a text test runner that will tell you if any of your tests fail.
     public static void main (String[] args) 
