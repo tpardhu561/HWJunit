@@ -16,7 +16,6 @@
         <pathelement location="."/>
         <path refid="JUnit 4.libraryclasspath"/>
     </path>
-              	
     <target name="init">
         <copy includeemptydirs="false" todir=".">
             <fileset dir=".">
