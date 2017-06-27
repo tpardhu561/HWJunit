@@ -19,6 +19,7 @@
     <target name="init">
         <copy includeemptydirs="false" todir=".">
             <fileset dir=".">
+                <exclude name="**/*.launch"/>
                 <exclude name="**/*.java"/>
             </fileset>
         </copy>
