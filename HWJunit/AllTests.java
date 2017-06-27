@@ -17,6 +17,7 @@ public class AllTests
 
     // Execution begins at main().  In this test class, we will execute
     // a text test runner that will tell you if any of your tests fail.
+	
     public static void main (String[] args) 
     {
        junit.textui.TestRunner.run (suite());
