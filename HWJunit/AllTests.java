@@ -10,6 +10,7 @@ import junit.framework.JUnit4TestAdapter;
 
 public class AllTests 
 {
+	
 	//This can be empty if you are using an IDE that includes support for JUnit
 	//such as Eclipse.  However, if you are using Java on the command line or
 	//with a simpler IDE like JGrasp or jCreator, the following main() and suite()
